@@ -1,0 +1,21 @@
+body {
+    height: 300vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.counter {
+    width: 350px;
+    margin-bottom: 10px;
+
+    text-align: center;
+}
+
+.bar {
+    width: 0;
+
+    border: 2px solid black;
+}

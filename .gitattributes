@@ -1,0 +1,18 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+    <div class="counter">
+        <h1></h1 data-number="1423123">
+        <div class="bar"></div>
+    </div>
+    <div class="counter">
+        <h1></h1 data-number="4324325">
+        <div class="bar"></div>
+    </div>
+    <div class="counter">
+        <h1></h1 data-number="23523">
+        <div class="bar"></div>
+    </div>
+    <div class="counter" data-number="123456789873128">
+        <h1></h1>
+        <div class="bar"></div>
+    </div>
